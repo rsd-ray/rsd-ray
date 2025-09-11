@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://raysanjaya.github.io/images/pixel-mario-animation.gif"  />
+  <img height="460" src="https://raysanjaya.github.io/images/pixel-mario-animation.gif"  />
 </div>
 
 ###
