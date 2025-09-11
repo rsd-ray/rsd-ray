@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="284" src="https://drive.google.com/u/0/drive-viewer/AKGpihbQWxK12O3Kp0y-oxdnvfpg0jaBDv8Eb8uLAZ7_1siHcS-78NZzn541pg7qADPsrbRecOIV1c9kNImsS_UBTL5jdVXhrFjHonU=s1600-rw-v1"  />
+  <img height="284" src="https://raysanjaya.github.io/images/pixel-mario-animation.gif"  />
 </div>
 
 ###
