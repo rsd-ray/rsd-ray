@@ -12,11 +12,11 @@
 
 ###
 
-// <h2 align="left">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-### <p align="left">I'm a Software Engineer with experience in building applications across both Back-end and Front-end, for Web and Mobile platforms. Comfortable working with modern frameworks like Flutter, Next.js, and Node.js. I have a solid understanding of application architecture, RESTful APIs, and database management.<br><br>I enjoy building efficient and scalable systems. Tackling technical challenges is my favorite part. It's where I get to think analytically and create impactful solutions.</p>
+<p align="left">I'm a Software Engineer with experience in building applications across both Back-end and Front-end, for Web and Mobile platforms. Comfortable working with modern frameworks like Flutter, Next.js, and Node.js. I have a solid understanding of application architecture, RESTful APIs, and database management.<br><br>I enjoy building efficient and scalable systems. Tackling technical challenges is my favorite part. It's where I get to think analytically and create impactful solutions.</p>
 
 ###
 
